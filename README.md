@@ -16,3 +16,17 @@ pythonで実装しています。
 * Python: 2.7.2
 * numpy: 1.5.1
 * matplotlib: 1.1.0
+
+Lionにmatplotlibのインストール時に何やらエラーが出てはまった場合は、この辺を参考にして回避。
+
+http://d.hatena.ne.jp/gigi-net/20110731/1312050461
+
+## leastSquares.py
+
+### 実行方法
+
+```
+$ python leastSquares.py
+```
+
+グラフがいきなり生成されて出力されます。
